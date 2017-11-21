@@ -32,4 +32,5 @@ dependencies {
     compile 'com.chen.wakehao.library:bottom-navigation-bar:1.0.0'
     compile 'me.yokeyword:fragmentation:1.1.8'
     compile 'com.android.support:design:26.1.0'
+    compile 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.30'
 }
